@@ -1,0 +1,2 @@
+webpackJsonp([0xa0ba6a996dae],{742:function(t,e){t.exports={data:{pages:{internal:{content:'{"id":4,"title":"Let me save","slug":"about/child-sensitivity","template":"about.jsx"}'},childPagesContent:{internal:{content:"null"}}}},pathContext:{slug:"about/child-sensitivity"}}}});
+//# sourceMappingURL=path---about-child-sensitivity-103f0a32df4d34de0e2e.js.map

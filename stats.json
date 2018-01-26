@@ -1,0 +1,144 @@
+{
+  "assetsByChunkName": {
+    "path---about-toolkit": [
+      "path---about-toolkit-63ca49b981764226ffd8.js",
+      "path---about-toolkit-63ca49b981764226ffd8.js.map"
+    ],
+    "path---reference-resources": [
+      "path---reference-resources-098dc1f1c611a7e985f0.js",
+      "path---reference-resources-098dc1f1c611a7e985f0.js.map"
+    ],
+    "path---actions-6": [
+      "path---actions-6-5f206df1d256548e6651.js",
+      "path---actions-6-5f206df1d256548e6651.js.map"
+    ],
+    "path---reference-references": [
+      "path---reference-references-a07782ae2263f756edaf.js",
+      "path---reference-references-a07782ae2263f756edaf.js.map"
+    ],
+    "component---src-templates-case-study-jsx": [
+      "component---src-templates-case-study-jsx-20cd51be8dfe98a9d42e.js",
+      "component---src-templates-case-study-jsx-20cd51be8dfe98a9d42e.js.map"
+    ],
+    "path---": [
+      "path----e617eeb85b3408484c64.js",
+      "path----e617eeb85b3408484c64.js.map"
+    ],
+    "component---src-templates-reference-jsx": [
+      "component---src-templates-reference-jsx-7dbef98430bbb0587695.js",
+      "component---src-templates-reference-jsx-7dbef98430bbb0587695.js.map"
+    ],
+    "component---src-templates-about-jsx": [
+      "component---src-templates-about-jsx-b6ae6000cf35383a8918.js",
+      "component---src-templates-about-jsx-b6ae6000cf35383a8918.js.map"
+    ],
+    "path---actions-7": [
+      "path---actions-7-d7ee4b8890c006bad08a.js",
+      "path---actions-7-d7ee4b8890c006bad08a.js.map"
+    ],
+    "path---actions-4": [
+      "path---actions-4-4bacb1fd96d54a37b629.js",
+      "path---actions-4-4bacb1fd96d54a37b629.js.map"
+    ],
+    "component---src-templates-action-jsx": [
+      "component---src-templates-action-jsx-feeb36ba4e08c9aae7c9.js",
+      "component---src-templates-action-jsx-feeb36ba4e08c9aae7c9.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-f3d85593f9d8e66b3778.js",
+      "component---src-layouts-index-js-f3d85593f9d8e66b3778.js.map"
+    ],
+    "path---actions-2": [
+      "path---actions-2-4862a752b6670cc15d94.js",
+      "path---actions-2-4862a752b6670cc15d94.js.map"
+    ],
+    "path---reference-acronyms": [
+      "path---reference-acronyms-95a47a4a054b0d5288ca.js",
+      "path---reference-acronyms-95a47a4a054b0d5288ca.js.map"
+    ],
+    "path---index": [
+      "path---index-fe55595e8cf1f27181bf.js",
+      "path---index-fe55595e8cf1f27181bf.js.map"
+    ],
+    "path---actions-8": [
+      "path---actions-8-868c000d8325214c3bb8.js",
+      "path---actions-8-868c000d8325214c3bb8.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-c1a399551a470e55c912.js",
+      "build-js-styles.css",
+      "commons-c1a399551a470e55c912.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---about-child-sensitivity": [
+      "path---about-child-sensitivity-1b080089d96685fd8ffb.js",
+      "path---about-child-sensitivity-1b080089d96685fd8ffb.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---actions-5": [
+      "path---actions-5-3ab8b1228c3894d7b781.js",
+      "path---actions-5-3ab8b1228c3894d7b781.js.map"
+    ],
+    "component---src-templates-home-jsx": [
+      "component---src-templates-home-jsx-e850255484e19e9e726f.js",
+      "component---src-templates-home-jsx-e850255484e19e9e726f.js.map"
+    ],
+    "path---building-blocks-meal": [
+      "path---building-blocks-meal-f5f65fcc34647eeab62d.js",
+      "path---building-blocks-meal-f5f65fcc34647eeab62d.js.map"
+    ],
+    "path---about-save-the-children": [
+      "path---about-save-the-children-6c2d09bf1bf4f28f1239.js",
+      "path---about-save-the-children-6c2d09bf1bf4f28f1239.js.map"
+    ],
+    "path---building-blocks-analysis": [
+      "path---building-blocks-analysis-8e47fa65853191eb7cc5.js",
+      "path---building-blocks-analysis-8e47fa65853191eb7cc5.js.map"
+    ],
+    "path---actions-1": [
+      "path---actions-1-fccf0ff646f22a068f65.js",
+      "path---actions-1-fccf0ff646f22a068f65.js.map"
+    ],
+    "app": [
+      "app-29d91b29aabf9a67cf9e.js",
+      "build-js-styles.css",
+      "app-29d91b29aabf9a67cf9e.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---building-blocks-design": [
+      "path---building-blocks-design-32ba355e7fd11e231d89.js",
+      "path---building-blocks-design-32ba355e7fd11e231d89.js.map"
+    ],
+    "path---reference-glossary": [
+      "path---reference-glossary-4a1d0174e870dd8b722d.js",
+      "path---reference-glossary-4a1d0174e870dd8b722d.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-templates-building-block-jsx": [
+      "component---src-templates-building-block-jsx-747c68d30b0924cfbbf1.js",
+      "component---src-templates-building-block-jsx-747c68d30b0924cfbbf1.js.map"
+    ],
+    "path---actions-9": [
+      "path---actions-9-c9bd6ce01d606501c073.js",
+      "path---actions-9-c9bd6ce01d606501c073.js.map"
+    ],
+    "path---building-blocks-analysis-actions-1-case-study": [
+      "path---building-blocks-analysis-actions-1-case-study-92da82766fd91240b269.js",
+      "path---building-blocks-analysis-actions-1-case-study-92da82766fd91240b269.js.map"
+    ],
+    "path---actions-3": [
+      "path---actions-3-a34924c98bc003f0738b.js",
+      "path---actions-3-a34924c98bc003f0738b.js.map"
+    ]
+  }
+}
